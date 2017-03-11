@@ -1,4 +1,4 @@
-# cinnamon-open-with-atom
+# nemo-open-with-atom
 A Nemo's action to open files and folders with Atom editor.
 
 ## Install
