@@ -1,0 +1,11 @@
+[Nemo Action]
+Name=Open with Atom
+Comment=Open with Atom
+
+Exec=atom %P
+
+Icon-Name=atom
+
+Selection=Any
+
+Extensions=dir
