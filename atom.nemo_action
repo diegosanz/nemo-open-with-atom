@@ -2,7 +2,7 @@
 Name=Open with Atom
 Comment=Open with Atom
 
-Exec=atom %F
+Exec=atom '%F'
 
 Icon-Name=atom
 
